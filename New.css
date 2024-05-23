@@ -1,0 +1,15 @@
+.box{
+    border: 2px solid black;
+    height: 500px;
+    width: 100%;
+}
+.carousel-text h1{
+    text-align: center;
+    font-size: 60px;
+}
+.heading{
+    text-align: center;
+}
+.navbar-brand img{
+    height: 50px;
+}
